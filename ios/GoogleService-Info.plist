@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>385553591869-3irphdifla3gc7olkgruc0n075d8t0eu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.385553591869-3irphdifla3gc7olkgruc0n075d8t0eu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCfc5NO7G6xp8nLz0qaHktaANqNI4uv2nQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>385553591869</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.SelfJournal</string>
+	<key>PROJECT_ID</key>
+	<string>selfjournal-f5fad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>selfjournal-f5fad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:385553591869:ios:1533211d3a84277caa4454</string>
+	<key>DATABASE_URL</key>
+	<string>https://selfjournal-f5fad.firebaseio.com</string>
+</dict>
+</plist>
